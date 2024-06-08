@@ -4,8 +4,10 @@ This Polygon Area Calculator code is one of the project of freeCodeCamp Scientif
 
 This project owner information:
 
-SIN,Chun Hung SIMON.
+SIN,Chun Hung SIMON. 
 
-HKUST graduate.
+HKUST Graduate. 
 
-Mathematician. Developer.
+Major in Mathematics.
+
+A Lifelong Learner.
